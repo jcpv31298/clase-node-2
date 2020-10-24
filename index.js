@@ -1,4 +1,4 @@
-console.log("Ejercicio con npm");
+console.log("Ejercicio con print-shape");
 
 const { triangle, square, rhombus } = require('print-shape');
 
